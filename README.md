@@ -4,4 +4,5 @@
 
 ## hình ảnh demo 
 
-#
+![petshop](https://user-images.githubusercontent.com/57147522/131212713-fb85c094-150e-45f6-92aa-9383b0a0d487.PNG)
+
